@@ -1,9 +1,9 @@
-<h1 align='center'>Team 200OK | API Fest 2022🔥</h1>
+<h1 align='center'>Team 200OK Frontend | API Fest 2022 &#x1F525;</h1>
 <p align='center'>
 <img src='http://ForTheBadge.com/images/badges/built-by-developers.svg'>&nbsp;<img src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
 </p>
 
-## What is it? 💡
+## What is it? &#x1F4A1;
 This web application was created during the API Fest 2022 by team 200OK which helps the user search for hospitals across India based on a variety of parameters. We created a Hospital API with the help of Postman to create a working prototype.<br/>
 
 The Hospital API features searching by applying the following filters:<br/>
@@ -17,7 +17,7 @@ The Hospital API features searching by applying the following filters:<br/>
 The Hospital API can also be used to add or delete a hospital from the database.<br/>
 We can also update information like Available beds through this API.<br/>
 
-## Team ✨
+## Team  &#x2728;
 <table>
   <tr>
     <td align="center"><a href="https://github.com/AmreetKumarkhuntia"><img src="https://avatars.githubusercontent.com/u/79908976?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amreet Kumar Khuntia</b></sub></a></td>
@@ -28,13 +28,13 @@ We can also update information like Available beds through this API.<br/>
   </tr>
 </table>
 
-## Built With 💕 
+## Built With &#x1F495;
 - [ ] ReactJs
 - [ ] Django
 - [ ] Postman
 - [ ] OpenAPI
 
-## Prerequisites 👨‍💻
+## Prerequisites &#x1F468;&#x200D;&#x1F4BB;
 
 ### Install create-react-app
 Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
@@ -58,7 +58,7 @@ After the installation has completed, you can verify your Django installation by
  ```
  in the command prompt.
 
-## Cloning and Running the Application in local 💻
+## Cloning and Running the Application in local &#x1F4BB;  
 
 Clone the project in localhost
 ```bash
@@ -99,14 +99,14 @@ python manage.py runserver
 The Application Runs on **localhost:8000**
 
 
-## Important Links 🔴
+## Important Links &#x1F534;
 1. <a href="https://youtu.be/I_CJDzbNZiQ">Video Demo</a>
 2. <a href="https://200-ok-frontend.vercel.app/">Landing Page</a>
 3. <a href="https://hospitalapi200ok.herokuapp.com/hospital">Deployed Backend</a>
 4. <a href="https://github.com/sumana2001/200OK-frontend">Frontent Repository</a>
 5. <a href="https://github.com/sumana2001/200OK-backend">Backend Repository</a>
 
-## Screenshots 📸
+## Screenshots &#x1F4F8;
 
 <img width="1440" alt="Screenshot_2022-01-29_at_3 20 18_PM" src="https://user-images.githubusercontent.com/63084088/151656695-5f18db6e-b857-4df1-939c-6d710e4fc8a3.png">
 <img width="1440" alt="Screenshot_2022-01-29_at_3 22 33_PM" src="https://user-images.githubusercontent.com/63084088/151656696-1b48197e-6cea-447d-9e86-46ea46197e49.png">
